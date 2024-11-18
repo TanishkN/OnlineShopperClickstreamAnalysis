@@ -1,6 +1,8 @@
 A) Can we cluster user sessions to help marketing teams? (Using K-Means Sklearn)
 B) Can we predict whether a user session will end up in a purchase? (Using Decision Tree and Random Forest Sklearn)
 
+Initial Results and Code: https://www.loom.com/share/0999d82a76504a81bcd80386fb3a0643?sid=fd0b8eb7-382e-4dbe-91fb-58e4f2ee2c81
+
 The Target variable Revenue(Binary) or whether a purchase is present: is constantly referred to for each features and clusters relevance to see if we are working towards our goal understand more about user sessions. 
 
 Contents:
