@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 A) Can we cluster user sessions to help marketing teams? (Using K-Means Sklearn)
 B) Can we predict whether a user session will end up in a purchase? (Using Decision Tree and Random Forest Sklearn)
 
