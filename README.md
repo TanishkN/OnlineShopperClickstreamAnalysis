@@ -1,7 +1,3 @@
-A) Can we cluster user sessions to help marketing teams? (Using K-Means Sklearn)
-B) Can we predict whether a user session will end up in a purchase? (Usi
-The Target variable Revenue(Binary) or whether a purchase is present: is constantly referred to for each features and clusters relevance to see if we are working towards our goal understand more about user sessions. 
-
 Contents:
 1. Datasets:
 - Datasets (Original Datasets)
